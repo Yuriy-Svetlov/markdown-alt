@@ -1,16 +1,16 @@
 {
   "name": "markdown-alt",
-  "version": "2.0.7",
+  "version": "2.1.1",
   "description": "Markdown alternative version",
   "keywords": [
     "markdown-alt"
   ],
-  "homepage": "https://github.com/semiromid/markdown-alt",
-  "bugs": "https://github.com/semiromid/markdown-alt/issues",
+  "homepage": "https://github.com/Yuriy-Svetlov/markdown-alt",
+  "bugs": "https://github.com/Yuriy-Svetlov/markdown-alt/issues",
   "license": "MIT",
   "author": {
-    "name": "Yrii Svetlov",
-    "email": "startpascal1@mail.ru"
+    "name": "Yuriy-Svetlov",
+    "email": "sominiurii@gmail.com"
   },
   "files": [
     "LICENSE",
@@ -21,7 +21,7 @@
   "main": "index.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/semiromid/markdown-alt"
+    "url": "https://github.com/Yuriy-Svetlov/markdown-alt"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
